@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.img{
+    margin-top: 80px;
+    width: 300px;
+    height: 300px;
+}
+.textF{
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
